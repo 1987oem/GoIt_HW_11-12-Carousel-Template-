@@ -1,0 +1,63 @@
+body {
+	width: 100%;
+	background-color: lightgrey;
+}
+
+.picture {
+	height: 100%;
+	text-align: center;
+	background-color: whitesmoke;
+}
+
+.div {
+	width: 1024px;
+	height: 1024px;
+	margin: 0 auto;
+}
+
+.div2 {
+	margin: 30px 200px 50px 200px;
+	background-color: whitesmoke;
+	padding: 10px 60px 60px 60px;
+	border: 1px solid black;
+}
+
+.prof {
+	border-bottom: 1px solid lightgrey;
+	padding-bottom: 22px;
+}
+
+img {
+	width: 30%;
+	text-align: center;
+	border: 1px solid black;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-size: 25px;
+	text-align: center;
+}
+
+h1,
+h2,
+ul,
+li,
+p {
+	background-color: whitesmoke;
+}
+
+.data {
+	margin-left: 40px;
+}
+
+.link {
+	text-decoration:underline;
+	color: blue;
+	font-style: italic;
+}
+
+.feedback {
+	border-top: 1px solid lightgrey;
+	padding-top: 18px;
+}
